@@ -1,0 +1,22 @@
+{
+    "name": "Steam",
+    "version": "6",
+    "description": "Extension for Simon Bolivar",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:simonbolsteam/pxt-neopixel"
+        
+	
+
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/en/mbit-strings.json"
+
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
